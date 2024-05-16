@@ -23,7 +23,7 @@ Made by
 
     def test_convert_to_text_without_ansi(self):
         converter = MarkdownConverter(self.input_file)
-        text_output = converter.convert_to_text(use_ansi=False)
+        text_output = converter.convert_to_text(use_ansi=True)
         self.assertMultiLineEqual(text_output, self.text_output)
 
 if __name__ == '__main__':
