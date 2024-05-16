@@ -1,0 +1,8 @@
+Lab1 "Git Basics"
+
+Convert markdown 
+to html
+
+Made by 
+        Sofiia Krytska 
+                       group IM-21

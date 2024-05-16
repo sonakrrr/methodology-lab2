@@ -1,0 +1,10 @@
+Lab1 "Git Basics"
+
+[7mConvert[27m [1mmarkdown[22m 
+to [3mhtml[23m
+
+[7m
+Made by 
+        Sofiia Krytska 
+                       group IM-21
+[27m
